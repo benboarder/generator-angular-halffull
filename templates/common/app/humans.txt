@@ -1,0 +1,21 @@
+# humanstxt.org/
+# The humans responsible & technology;
+
+/* TEAM */
+  Web Dev: Ben Boarder
+  Contact: ben [at] halffullstudio.com
+  Website: halffullstudio [dot] com
+  Twitter: @switchstate
+  From: Melbourne, Australia
+
+/* THANKS */
+  Coffee & Cigarettes, my awkward amazing friends
+
+/* SITE */
+  Last update: 04/12/2013
+  Language: English
+  Doctype: HTML5
+  Languages: JavaScript, CSS3
+  Libraries: jQuery
+  IDE: Sublime Text3, FileZilla
+  Graphics: Photoshop CS6, Glifo, SVG

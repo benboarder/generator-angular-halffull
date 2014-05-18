@@ -1,0 +1,97 @@
+// _extras.scss
+
+.browsehappy{
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0;
+}
+
+.float-right{
+  float: right;
+}
+
+.hide{
+  display: none;
+}
+
+.show{
+  display: block;
+}
+
+.disabled{
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+a{
+  text-decoration: none;
+  color: #08C;
+  transition: all 0.3s ease-out;
+  position: relative;
+  padding: .5em;
+  margin: -.5em;
+
+  .float-left{
+    float: left;
+  }
+
+  :hover{
+    color: #0AF;
+  }
+}
+
+*{
+  :before, :after{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+}
+
+.visuallyhidden{
+  position: absolute;
+  width: 1px;
+  /* Setting this to 0 make it invisible for VoiceOver */
+  height: 1px;
+  /* Setting this to 0 make it invisible for VoiceOver */
+  padding: 0;
+  margin: -1px;
+  border: 0;
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
+.break{
+  -ms-word-break: break-all;
+  word-break: break-all;
+  word-break: break-word;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+}
+
+.ellipsis{
+  width: 250px;
+  white-space: nowrap;
+  overflow: hidden;
+  -ms-text-overflow: ellipsis;
+  /* Required for IE8 */
+  -o-text-overflow: ellipsis;
+  /* Required for Opera */
+  text-overflow: ellipsis;
+}
+
+ .clearfix{
+  /* IE6/7 support */
+  *zoom: 1;
+
+  :after{
+    clear: both;
+  }
+
+  :before, :after{
+    content:" ";
+    display: table;
+  }
+}
