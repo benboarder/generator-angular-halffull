@@ -1,7 +1,7 @@
 {
   "name": "generator-angular-halffull",
   "version": "0.8.5",
-  "description": "Optimistic Yeoman generator for AngularJS",
+  "description": "Optimistic Yeoman generator for AngularJS. Extended from the official angular generator",
   "keywords": [
     "yeoman-generator",
     "scaffold",

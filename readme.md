@@ -20,16 +20,17 @@ Run `yo angular-halffull`, optionally passing an app name:
 yo angular-halffull [app-name]
 ```
 
-Run `grunt` for building 
+Run `grunt` for building
 Run `grunt serve` for preview
 Run `grunt test` for testing
 Run `grunt push` for deployment and live testing
+Run `grunt extra` for misc tasks such as uncss
 
 ## Configuration
 Yeoman generated projects can be further tweaked according to your needs by modifying project files appropriately.
 
 ## Extension
-Added to this extension of generator-angular are the following modules: 
+Added to this extension of generator-angular are the following modules:
 `htmlhint`
 `uncss`
 `pagespeed`
