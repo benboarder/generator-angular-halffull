@@ -1,4 +1,4 @@
-# AngularJS generator [![Build Status](https://secure.travis-ci.org/yeoman/generator-angular-halffull.svg?branch=master)](http://travis-ci.org/yeoman/generator-angular-halffull)
+# Halffull AngularJS generator [![Build Status](https://secure.travis-ci.org/benboarder/generator-angular-halffull.svg?branch=master)](http://travis-ci.org/benboarder/generator-angular-halffull)
 
 > Yeoman generator for AngularJS extended with extra tools and goodies
 
